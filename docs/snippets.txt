@@ -1,0 +1,19 @@
+Install gnome tweaks
+
+sudo apt install gnome-shell-extensions ?
+and /or
+sudo apt install gnome-tweaks
+
+Then install Arc Dock
+Use the 'runner' preset with config file
+Super + Space as shortcut
+Apply the settings manually?
+
+Install the Nord Polar theme (non-standard-buttons)
+Remove some icons from dock (launcher, apps, etc.)
+
+Install as debian or flatpack
+Telegram, Spotify, Discord, Blender, Code, htop, 
+
+
+git config --global user.name "Mona Lisa"
